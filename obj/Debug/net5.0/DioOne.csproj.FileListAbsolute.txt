@@ -1,0 +1,16 @@
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.exe
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.deps.json
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.runtimeconfig.json
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.runtimeconfig.dev.json
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.dll
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\ref\DioOne.dll
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\bin\Debug\net5.0\DioOne.pdb
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.csproj.AssemblyReference.cache
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.AssemblyInfoInputs.cache
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.AssemblyInfo.cs
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.csproj.CoreCompileInputs.cache
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.dll
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\ref\DioOne.dll
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.pdb
+C:\Users\Joanna\Desktop\Joanna\05. PROJETOS\.NET\DioOne\obj\Debug\net5.0\DioOne.genruntimeconfig.cache
